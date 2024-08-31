@@ -1,0 +1,35 @@
+**** ContactManager Project ****
+
+Foydalanuvchilarning kontaktlarini boshqaradigan dastur tuzing.
+Bunda foydalanuvchi quyidagi narsalarni qila olishi mumkin bo'lsin:
+1. Kontakt kiritish;
+2. Kiritilgan kontaktlarni ko'rish;
+3. Kontaktlarni qidirish
+
+Muhim va hisobga olish kerak bo'lgan narsalar:
+   1. Bir xil kontaktlar kiritish mumkin emas;
+   2. Har bir kontaktning id si, ismi, familiyasi, telefon raqami va aktivligi
+
+** MENU **
+
+1-Add Contact:
+  Enter firstname:
+  Enter lastname:
+  Enter phone number:
+  Enter true (this means active contact)
+
+2-Update Contact:
+  Enter firstname:
+  Enter lastname:
+  Enter phone number:
+  Enter true or false
+
+3-Contact List
+  1. firstname lastname phone active
+  2. firstname lastname phone active
+
+4-Search (by firstname, lastname, phone number, active)
+
+5-Delete Contact (by phone)
+
+6-Exit
